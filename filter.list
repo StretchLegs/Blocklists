@@ -3,8 +3,3 @@ https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
-https://blocklist.greensnow.co/greensnow.txt
-https://iplists.firehol.org/files/spamhaus_drop.netset
-https://iplists.firehol.org/files/spamhaus_edrop.netset
-https://iplists.firehol.org/files/normshield_high_attack.ipset
-https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
