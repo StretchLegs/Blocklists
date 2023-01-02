@@ -1,6 +1,14 @@
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/zeus_badips.ipset
+https://iplists.firehol.org/files/alienvault_reputation.ipset
+https://iplists.firehol.org/files/bds_atif.ipset
+https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/et_block.netset
+https://iplists.firehol.org/files/et_compromised.ipset
+https://iplists.firehol.org/files/urlvir.ipset
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
 https://lists.blocklist.de/lists/all.txt
@@ -14,4 +22,3 @@ https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 https://www.spamhaus.org/drop/drop.txt
 https://www.spamhaus.org/drop/edrop.txt
 https://feeds.dshield.org/block.txt
-https://iplists.firehol.org/files/zeus_badips.ipset
