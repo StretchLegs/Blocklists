@@ -4,11 +4,9 @@ https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
 https://lists.blocklist.de/lists/all.txt
-https://www.binarydefense.com/banlist.txt
-https://cinsscore.com/list/ci-badguys.txt
-https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
-https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://blocklist.greensnow.co/greensnow.txt
-https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
