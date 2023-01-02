@@ -1,9 +1,2 @@
-A simple personal block list for Skynet https://github.com/Adamm00/IPSet_ASUS
-
-All lists from://
-
-https://threatview.io/ 
-http://iplists.firehol.org/  
-https://www.spamhaus.org/drop/
-https://github.com/stamparm/ipsum
-
+A simple personal block list for Skynet,a firewall for Asus Routers https://github.com/Adamm00/IPSet_ASUS
+ 
