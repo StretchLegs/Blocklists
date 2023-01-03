@@ -13,3 +13,5 @@ https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset
+http://www.abuseat.org/iotcc.txt
